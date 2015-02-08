@@ -1,5 +1,3 @@
 # Summary
 
-* [Introduction](README.md)
-* Grammar
-
+* [Grammar](grammar.md)
